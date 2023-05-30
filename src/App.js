@@ -12,7 +12,7 @@ const App = () => {
   const [filteredPlaces, setFilteredPlaces] = useState([]);
   const [childClicked, setChildClicked] = useState(null);
 
-  const [coordinates, setCoordinates] = useState({ lat: 0, lng: 0 });
+  const [coordinates, setCoordinates] = useState({});
   const [bounds, setBounds] = useState({ ne: 0, sw: 0 });
 
   const [isLoading, setIsLoading] = useState(false);
