@@ -1,4 +1,4 @@
-# [Travel Advisor] (https://travel-api-coral.vercel.app/) - React JS
+# [Travel Advisor](https://travel-api-coral.vercel.app/) - React JS
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/NishitShah18)
 
