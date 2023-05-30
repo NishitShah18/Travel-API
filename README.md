@@ -1,6 +1,7 @@
 # Travel Advisor - React JS
 
 Link to website: [Travel Advisor](https://travel-advisor-reactjs.netlify.app/)
+
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/NishitShah18)
 
 ![Travel Companion App with React JS](https://user-images.githubusercontent.com/71302066/174569416-9e8250a9-87ef-49f4-be4a-f077196fe12f.png)
